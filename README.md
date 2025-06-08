@@ -28,7 +28,7 @@ By analyzing transactional data across branches, categories, and time periods, I
 [Dataset Link](https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets)
 
 ## Key Business Questions
-### | Question                                              | Why It Matters                           |
+| Question                                              | Why It Matters                           |
 | ----------------------------------------------------- | ---------------------------------------- |
 | Which payment method is used most per branch?         | Helps tailor checkout infrastructure     |
 | What’s the highest-rated product category per branch? | Enables branch-specific promotions       |
@@ -45,9 +45,9 @@ By analyzing transactional data across branches, categories, and time periods, I
 - Evening shifts were more profitable than mornings, suggesting potential shift optimization.
 
 ## Results
-### Sales Insights: Key categories, branches with highest sales, and preferred payment methods.
-### Profitability: Insights into the most profitable product categories and locations.
-### Customer Behavior: Trends in ratings, payment preferences, and peak shopping hours.
+- Sales Insights: Key categories, branches with highest sales, and preferred payment methods.
+- Profitability: Insights into the most profitable product categories and locations.
+- Customer Behavior: Trends in ratings, payment preferences, and peak shopping hours.
 
 
   
