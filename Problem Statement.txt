@@ -1,4 +1,6 @@
-Walmart, one of the largest global retailers, faces operational challenges in managing customer transactions, category performance, and regional sales trends across thousands of branches. With millions of daily transactions, the company requires deep, data-driven insights to stay competitive, reduce inefficiencies, and better serve its customers.
+Walmart, one of the largest global retailers, faces operational challenges in managing customer transactions,
+category performance, and regional sales trends across thousands of branches. With millions of daily transactions,
+the company requires deep, data-driven insights to stay competitive, reduce inefficiencies, and better serve its customers.
 The core business problems addressed in this analysis include:
 
  1. Analyze Payment Methods and Sales
