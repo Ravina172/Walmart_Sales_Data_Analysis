@@ -6,7 +6,7 @@ This project simulates how a large retailer like Walmart can harness sales data 
 By analyzing transactional data across branches, categories, and time periods, I surfaced patterns and insights that could drive smarter decisions around inventory, staffing, and strategic planning.
 
 ## Problem Statement
-[View Problems][https://docs.google.com/document/d/15GKBPti12Eq_0rbfwFx5T6cprYAT6vmh24SLVmxcLHA/edit?usp=sharing]
+![View Problems](https://docs.google.com/document/d/15GKBPti12Eq_0rbfwFx5T6cprYAT6vmh24SLVmxcLHA/edit?usp=sharing)
 
 ## Objectives
 - dentify the most and least profitable product categories
